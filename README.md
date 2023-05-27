@@ -2,6 +2,10 @@
 This project seeks to build a **TV programs schedule Website**, Android and iOS apps.
 
 
+## TO DO
+* Tags for various programs PG LNV 18 etc. 
+* Check out Media Commission categorization of media
+
 ## USERS
 
 1. **GENERAL USERS** can create account and select their favourite 
@@ -50,4 +54,21 @@ The source code for this program will be divided into three templates: The **fro
 1. Always work on a new branch, else your pull request will not be honoured. 
 2. Be free to leave comments on your pull request. 
 
+
+## HOMEPAGE
+Features include
+* Header Links to Homepage in the LOGO, SCHEDULES, CATEGORIES, PERSONALITIES
+* 
+
+## SCHEDULES
+* This page displays the Full breakdown of TV Programing Schedule prsented in a tabular form which is easy to read
+* Some of these programs should be clickable leading to their individual TV Station page or TV Program page where further information can be accessed. 
+
+## CATEGORIES
+* This page contains the classifications of the TV Programs under their Genre. 
+* MOVIES - Action/ Drama/ Telenovela/ Local/ African etc. 
+* NEWS - Politics, Finances, Entertainment, International
+* DOCUMENTARY - Social, Nature, Discovery, Cultural
+* GAME SHOW - Reality, Lottery
+* RELIGIOUS - Preaching, Social Discussions
 
