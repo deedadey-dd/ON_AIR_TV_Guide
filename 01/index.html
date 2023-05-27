@@ -7,6 +7,7 @@
         <title>ON AIR TV Guide</title>
         <link rel="stylesheet" href="css/main.css">
     </head>
+
     <body>
         <div class="navbar">
             <div class="container">
@@ -16,6 +17,7 @@
 
                 <nav>
                     <img id="mobile-exit" class="mobile-menu-exit" src="images/Hamb-Close.svg" alt="Close Menu">
+
                     <ul class="first-nav">
                         <li><a href="#">HOME</a></li>
                         <li><a href="#">SCHEDULE</a></li>
@@ -23,7 +25,7 @@
                         <li><a href="#">PERSONALITIES</a></li>
                     </ul> 
 
-                    <div class="search-container">
+                    <div id="search-site" class="search-container">
                         <input type="search" class="search-input" placeholder="Search...">
                     </div>
 
@@ -37,11 +39,58 @@
 
         <section class="hero">
             <div class="container">
+                <img src="images/Hero_Reel.svg" alt="Hero Images">
                 <div class="left_col">
-                    <p class="subhead">Showing Now!</p>
+                    <p class="subhead">LEFT</p>
+                    <img src="images/Point-Of-View-1024x448.jpg" alt="trending tv show">
+
+                </div>
+                <div class="mid_col">
+                    <p class="subhead">MID</p>
+                    <img src="images/insp_bediako.jpg" alt="trending tv show">
+                    
+                </div>
+                <div class="right_col">
+                    <p class="subhead">RIGHT</p>
+                    <img src="images/WCooking-1600x700-1.jpg" alt="trending tv show">
+                    
                 </div>
             </div>
 
+        </section>
+
+        <section class="mid-section">
+            <div class = "container">           
+                <div class="left_mid">
+                    STAION LIST
+                    <div class="search-container">
+                        <input id="search-station" type="search" class="search-input" placeholder="Search Station...">
+                    </div>
+                </div>
+                <div class="mid-mid">
+                    SCHEDULE
+                </div>
+                <div class="right-mid">
+                    TRENDING
+                    <div>
+                        <img src="images/Vertical_Reel.svg" alt="trending shows">
+                    </div>
+                    <div>
+                        <img src="images/upside-1.jpg" alt="">
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section>
+            <div class="container">
+                <h2>Create and Account to Save your Favourites</h2>
+                <h3>Join a community of show lovers by creating an account</h3>
+
+                <button id="signup" onclick="">Sign Up</button>
+                Already have an account? <a href="#"> Sign in</a>
+
+            </div>
         </section>
     </body>
 </html>

@@ -37,6 +37,9 @@ This project can be extended to cover
 * Youtube Channels
 * Other Online Platforms
 
+## RATING OF SHOWS
+
+Users should be able to rate shows and then there should be some page for ranking.
 
 ## MONETIZATION
 
@@ -71,4 +74,8 @@ Features include
 * DOCUMENTARY - Social, Nature, Discovery, Cultural
 * GAME SHOW - Reality, Lottery
 * RELIGIOUS - Preaching, Social Discussions
+* CHILDREN - Education, Cartoons
+* MUSIC - Gospel, Oldies, Foreign, Local
+* SITCOMS - 
+* LIVE EVENTS
 
